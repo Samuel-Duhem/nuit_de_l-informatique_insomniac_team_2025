@@ -1,0 +1,8 @@
+div{
+    background-color: var(--accent-400);
+}
+
+#box-holder{
+    background-color: var(--accent-200);
+    margin: 1rem;
+}
